@@ -1,0 +1,5 @@
+notebook
+requests
+pandas
+openai 
+ipython
