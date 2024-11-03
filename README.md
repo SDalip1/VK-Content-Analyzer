@@ -10,3 +10,7 @@ vk_analysis_notebook.ipynb - дополнительный файл к скрип
 README.md - информация о содержании репозитория 
 
 VKContentAnalyzer.ipynb - описание всех шагов решения и код с комментариями
+
+OPENAI_API_KEY = os.environ['OPENAI_API_KEY'] - в данную переменную окружения ввести API-ключ OpenAI
+
+requrements.txt - блокнот со всеми библиотеками
