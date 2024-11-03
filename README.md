@@ -1,5 +1,5 @@
 # VK-Content-Analyzer
-Скрипт создан для анализа типа контента в ВК, на основе обученной нейросети ChatGPT с моделью gpt-3.5-turbo 
+Скрипт создан для классификации типа контента в ВК, на основе обученной языковой модели GPT gpt-3.5-turbo 
 
 Репозиторий содержит такие файлы как:
 
@@ -14,3 +14,5 @@ VKContentAnalyzer.ipynb - описание всех шагов решения и
 OPENAI_API_KEY = os.environ['OPENAI_API_KEY'] - в данную переменную окружения ввести API-ключ OpenAI
 
 requrements.txt - блокнот со всеми библиотеками
+
+chart (2).png, chart (3).png, chart (4).png, chart (5).png - дополнительные файлы к VKContentAnalyzer.ipynb
